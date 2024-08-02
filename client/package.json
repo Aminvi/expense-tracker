@@ -46,5 +46,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:2002"
+  "proxy": "https://expense-tracker-nuzo.onrender.com"
 }
